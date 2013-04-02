@@ -18,7 +18,7 @@
 package skein
 
 import (
-    "crypto/threefish"
+    "github.com/whyrusleeping/GoThreefish"
 )
 
 type skeinConfiguration struct {

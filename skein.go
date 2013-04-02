@@ -34,7 +34,7 @@ package skein
 import (
     "strconv" 
     "hash"
-    "crypto/threefish"
+    "github.com/whyrusleeping/GoThreefish"
     "encoding/binary"
 )
 
